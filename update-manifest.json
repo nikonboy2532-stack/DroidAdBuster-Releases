@@ -1,0 +1,13 @@
+{
+  "Schema": 1,
+  "ProductId": "droidadbuste-security-pro",
+  "Version": "2.0.0",
+  "Platform": "win-x64",
+  "Channel": "stable",
+  "PublishedUtc": "2026-11-10T03:00:00Z",
+  "Artifact": "DroidAdBuster_v2.0.0_Standalone.zip",
+  "DownloadUrl": "https://github.com/nikonboy2532-stack/DroidAdBuster-Releases/releases/download/v2.0.0/DroidAdBuster_v2.0.0_Standalone.zip",
+  "SizeBytes": 73649053,
+  "Sha256": "895AF56E6E32B359F53D6755CAB349FA52B4FCB4A75A36C9CCEC1153438C3ED0",
+  "Notes": "DroidAdBuster Security Pro Official Release v2.0.0 (Android & iOS Special Edition)\r\n- Full Cross-Platform Engine: Support both Android & Apple iOS\r\n- Deep Virus & Banking Trojan Detection (SharkBot, Anatsa, TeaBot, FluBot, SpyNote, Stalkerware)\r\n- Permanent Anti-Reinfection Shield: Encrypted DNS Ad/Malware Blocker + Sideload Lock\r\n- Live Popup Catcher: Instant on-screen ad identification & 1-click removal\r\n- Browser Notification Spam Cleaner: Chrome & Samsung Internet spam purge\r\n- Device Admin & Accessibility Unlocker: Auto unfreeze stubborn locked malware\r\n- Leftover .APK Dropper Cleaner: Erase dormant installers in Download folder\r\n- Security Scan & Repair Report: Professional HTML report for clients\r\n- In-App Auto-Update via GitHub Releases"
+}
